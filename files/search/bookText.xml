@@ -1,0 +1,829 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Search><pages Count="26"><page Index="1"><![CDATA[]]></page><page Index="2"><![CDATA[Descripción y características del
+
+
+
+
+
+                                                                                       sistema
+
+
+
+
+                          OPERACIONES                                  DESCRIPCIÓN
+                                                En esta operación se traspasa la materia prima de las cajas a
+                    Desconsolidado              contenedores para una mejor organización de la materia
+                                                prima
+                    Montaje de chasis
+                    Montaje de sub chasis       Montaje es el proceso mediante el cual se reemplaza cada
+                    Montaje de basculante       pieza en su posición definitiva dentro de una estructura. Este
+                                                proceso será realizado para el chasis, sub chasis, basculante,
+                    Montaje de neumáticos       neumáticos y motor
+                    Montaje de motor
+                    Pintado de chasis, sub      La pintura requiere pericia con la pistola para lograr una
+                    chasis y carenado           buena estética en la motocicleta
+                    Ensamblaje de chasis
+                    Ensamblaje de sub chasis    Esta línea de ensamble es un proceso en donde las partes son
+                    Ensamblaje de basculante    añadidas conforme el ensamble semi-terminado se mueve de
+                    Ensamblaje de               estación de trabajo a estación de trabajo en donde las
+                    neumáticos                  partes son agregadas en secuencia hasta que se produce el
+                    Ensamblaje de motor         ensamble final
+                    Ensamblaje de horquilla
+                                                El montaje del carenado se coloca al final ya que es el
+                    Montaje de carenado
+                                                revestimiento externo de la motocicleta.
+                                                Se carga combustible realizando distintas pruebas a la
+                    Banco de pruebas
+                                                motocicleta
+                    Inspección                  Se realiza la última inspección antes del embalaje
+                                                El embalaje óptimo de una motocicleta se debe realizar en             Fuente:Geo Tutoriales. (2015). Enfoque repetitivo. (Traducido
+                    Embalaje                    esqueleto de madera, para evitar deterioros en la pintura o           al español)
+                                                roturas]]></page><page Index="3"><![CDATA[Identificación del tipo de distribución en
+
+
+
+                                                                                   planta.
+
+
+
+
+
+               VOLUMEN DE                 Elevado
+               PRODUCCIÓN
+               DISPOSICIÓN DE             Orientada al producto
+               PLANTA
+               TIPO DE PUESTOS DE         Fijos
+               TRABAJO
+
+               FLEXIBILIDAD               Media
+
+               AUTOMATIZACION             Alto
+                                          Necesariamente de
+               ESPECIALIZACION DE  media a alta, debido a
+               LOS OPERARIOS              que se realiza el
+                                          ensamblaje
+               INNOVACION                 Baja
+
+                                                                        A medida, poco
+                                                                        estandarizado, ya que
+               FUNCIONALIDAD              TIPO DE PRODUCTO
+                                                                        no posee una gran
+                                                                        variedad de productos
+
+               CALIDAD                    Media a alta
+
+
+                                                                                                  Fuente: Lluís Cuatrecasas Arbos. (2009). Diseño avanzado de procesos y planta de producción
+                                                                                                                                            flexible.]]></page><page Index="4"><![CDATA[Descripción del proceso
+
+
+
+
+
+
+                                                                                                                       OPERAR
+                            N       OPERACIÓN                        DESCRIPCIÓN                        MÁQUINAS                    TIEMPO
+                                                                                                                          IOS
+                                                                                                                                     (MIN)
+
+                                                     Chasis tubular triangulado con tensión de tracción
+                                     Montaje del      y compresión, con tubos de 19mm de diámetro y
+                             1                                                                         Manual-Grúas        1
+                                       Chasis         espesor de 1,2mm. Tubo de sección redondeada
+                                                       para resistir cargas de torsión y de compresión
+                                                         Basculante triangulado de 19mm de acero
+                                     Montaje del
+                             2                         Reynolds 631, con pletinas para conseguir una   Manual-Grúas        2           20
+                                     basculante
+                                                        rigidez adecuada con el menor peso posible
+                                                      Constituida con 6 perfiles de sección cuadrada u
+                                     Montaje de         de acero, pieza donde se asienta el colin del
+                             3                                                                         Manual-Grúas        1           10
+                                      Subchasis       carenado, para cargas. Elemento que va sujeto al
+                                                                     chasis de la moto.
+
+
+                                                       Montaje de piezas que van en serie montadas
+                                  Construcción del
+                             4                         desde abajo hacia arriba, parte importante de la   Manual-Grúas     1           10
+                                        motor
+                                                                           moto
+
+
+                                                     Motor de 4 tiempos y un solo cilindro con caja de
+                                                     cambios de   velocidades, Con un Carburador que
+                                     Montaje del        alimenta a la motocicleta proporcionándole
+                                       Motor,
+                             5                       gasolina desde el caudal de aire aspirador. Escape  Automatizado      2           25
+                                     carburador,      silencioso para la reducción de ruidos. Radiador
+                                  escape y radiador
+                                                       que da la capacidad de disipación de calor del
+                                                                          motor.]]></page><page Index="5"><![CDATA[Descripción del proceso
+
+
+
+
+
+
+
+
+                                         Montaje de
+                                         suspensión        Suspensión que funciona mediante aceite y
+                                6                                                                        Automatizado         2          20
+                                          delantera                         muelle.
+                                         (horquilla)
+
+
+
+
+                                         Montaje de       Neumáticos DUNLOP delantero y trasero y
+                                7                                                                        Automatizado         2          15
+                                        neumáticos                      llantasYZF125r,
+
+
+
+
+                                                            Tras el estudio aerodinámico, se elige el
+                                        Elección del         carenado más adecuado para luego ser
+                                9                                                                        Automatizado         2          16
+                                          carenado       montado a la moto, con fin de una conducción
+                                                                            óptima.
+
+
+
+
+                                                            Control mediante programas, control de
+                                         Control de
+                               10                         velocidad, aceleración, diagnóstico de luces,   Manual-Grúas        1           5
+                                           calidad
+                                                                       frenos, caja. Etc.
+
+
+
+
+                                                           Sección recolección de motos terminadas
+                               11       Almacenado                                                       Manual-Grúas                    10
+                                                                   disponibles y terminados
+
+
+                                                                                            Fuente: Elaboración propia]]></page><page Index="6"><![CDATA[Layout 2D de la empresa
+
+
+
+
+
+
+
+
+
+
+                         Este segmento es una descripción
+                          de la planta de la Fábrica de
+
+                          Motocicletas,         en     el    cual     se
+                          describen a detalle las áreas que
+                          constituyen la fábrica, en rasgos
+                          más generales se subdivide en
+                          Área de almacenamiento inicial,
+                          Área      de     Montaje,       pintura      y
+                          ensamblaje          inicial,    Área       de
+                          Embalaje, Área de inspección y
+                          finalmente Área de Embalaje y
+
+                          Almacén final.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                           Fuente: Elaboración propia en el programa Visio]]></page><page Index="7"><![CDATA[Layout 3D de la empresa
+
+
+
+
+
+                           A continuación, se hace una representación gráfica en 3D utilizando la herramienta de SketchUp, se utilizó como base la
+                            representación en 3D.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                    Fuente: Elaboración propia en el programa SketchUp]]></page><page Index="8"><![CDATA[VIDEO TOUR VIRTUAL]]></page><page Index="9"><![CDATA[REALIDAD AUMENTADA
+
+
+
+
+
+
+                 PLANTA EN GENERAL                             AREA DE ENSAMBLAJE
+
+
+
+
+
+
+
+
+
+
+
+
+
+                 AREA DE MONTAJE                               BANCO DE PRUEBAS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                 AREA DE PINTADO                               EMBALAJE]]></page><page Index="10"><![CDATA[Información técnica detallada de cada
+
+
+
+                              estación de trabajo
+
+
+
+
+
+
+
+
+                                                                                                                                                       Set up
+                                Operaciones                MO            TC          Setup      U/C     Defectuosos         CTU      Capacidad                    Scrap loss
+                                                                                                                                                         loss
+
+                                Unidades                                min            min       u            %            min/u         u/dia           min         min
+                                Desconsolidado              1             8             -        1          0,80%            8             54             -          0.06
+                                Montaje de chasis           1            20             -        1          2,00%            20            21             -          0.99
+
+                                Montaje de                  1            25             -        1                           25            17             -            -
+                                subchasis
+                                Montaje de                  2            10             2        1            2%             10            43            0.05          -
+                                basculante
+                                Montaje de                  2            15             3        2             -            7.5            57            0.05          -
+                                neumáticos
+                                Montaje del motor           2            30            10        1             -             30            14            0.71          -
+
+                                Pintado de chasis,
+                                subchasis y                 2            30             2        3                           10            43            0.05          -
+                                carenado
+
+                                Ensamble de chasis,         1            10             -        1             -             10            43            0.02          -
+                                basculante y ruedas
+
+                                Ensamble de motor,
+                                carburador y                1            25             1        1             -             25            17            0.06          -
+                                escape]]></page><page Index="11"><![CDATA[Ensamble de                  2            10             1        1             -             25             17           0.06           -
+
+                                subchasis
+                                Ensamble de                  2            10             1        1             -             10             43           0.02           -
+                                horquilla
+
+                                Montaje del                  2            30             -        1             -             30             14             -            -
+
+                                carenado
+
+                                Banco de pruebas             1            10             -        1            5%             10             43             -          0.58
+
+
+                                Inspección                   1            5              -        1             -              5             86             -            -
+
+                                Embalaje                     2            15             -        1             -             15             28             -            -
+                                       TOTALES              23           268            20        18         9.80%          240.5           540           1.02         1.63
+                                                Fuente: Elaboración propia en base a Bianchi, T. & Chiaro, F. & Labat, V. & Raffo, M. & Tommasi, M.
+                                                     Producción y comercialización de motocicletas TVS. Instituto Tecnológico de Buenos Aires
+
+
+                               La empresa trabaja 20 días al mes, cada día un turno de 8 horas, en cual los operarios tienen 1 hora de descanso para el
+                               almuerzo, con estos datos calculamos el uptime:
+                               Días laborables al mes: 20 días al mes
+                               Horas laborales al día: 8 horas al día
+                               Se tiene una hora de descanso para el almuerzo
+                               Tiempo disponible
+                                                                                          20          8ℎ         60                 
+                                                                                                  ∗         ∗         = 9600
+                                                                                           1         1        1ℎ                    
+                               Tiempo no disponible
+                                                                                       20          1 ℎ       60                  
+                                                                                                ∗        ∗        = 1200
+                                                                                        1         1        1ℎ                    
+                                                                                                             
+                               Tiempo real disponible                           9600 − 1200    = 8400
+                                                                                                             
+                                                                                                                            8400
+                                                                  %              =                       ∗ 100% =         ∗ 100%       %             = 87.5%
+                                                                                                                     9600]]></page><page Index="12"><![CDATA[Materia prima
+
+
+
+
+
+
+                Para la fabricación de una motocicleta son necesarios 47 tipos de materiales desde los más pequeños como tornillos hasta la parte más
+                grande e importante que es el motor.
+
+                                                                Precio/   Cantidad para
+                                             Material                                    Total (Bs)          Material        Precio/ Unidad   Cantidad para 1   Total (Bs)
+                                                             Unidad (Bs/u)  1 moto (u)                                          (Bs/u)       moto (u)
+                                    Tornillos                    0.13         230          31.0     Discos freno                126.45         2          252.9
+                                    Tuercas                      0.07         100          6.7      Carenado                    674.4          1          674.4
+                                    Cascillos                    0.24          38          9.3      Manetas                     67.44          2         134.88
+                                    Arandelas                    0.01         330          2.8      Puños                       16.86          1          16.86
+                                    Juntas                       1.69          30          50.6     Tanques                     126.45         1         126.45
+                                    Cojinetes                    5.90          7           41.3     Asientos                    67.44          2         134.88
+                                    Rodamientos                  21.08         12         252.9     Escapes                     590.1          1          590.1
+                                    Pernos                       2.36          16          37.8     Manillares                  42.15          2          84.3
+                                    Muelles                      1.69          12          20.2     Horquillas                  252.9          2          505.8
+                                    Filtros                      71.66         1           71.7     Tijas                       126.45         1         126.45
+                                    Laminas                      12.65         1           12.6     Cuenta km.                  143.31         1         143.31
+                                    Cajas de laminas            126.45         1          126.5     Bombines Llave              168.6          1          168.6
+                                    Amortiguadores              252.90         1          252.9     Neumáticos                  421.5          2          843
+                                    Carcasas                    337.20         1          337.2     Llantas                     421.5          2          843
+                                    Platinos                    252.90         1          252.9     Cadenas                     67.44          1          67.44
+                                    Embragues                   168.60         1          168.6     Piñones                     33.72          1          33.72
+                                    Carburadores inyección      295.05         1          295.1     Platos                      33.72          1          33.72
+                                    Cigüeñales                  590.10         1          590.1     Pinzas de freno             168.6          2          337.2
+                                    Bujías                       8.43          1           8.4      Tubos de aluminio           421.5          1          421.5
+                                    Pistones                    126.45         1          126.5     Laminas de aluminio         295.05         1         295.05
+                                                                                                    Pintura                     126.45         1         126.45
+                                    Caja Engranajes             337.20         1          337.2                                 168.6          1          168.6
+                                    Cilindros                   168.60         1          168.6     Pegatinas                   4215           1          4215
+                                    Culatas                      84.30         1           84.3     Motor
+                                                                                                                         Total material                     13629
+                                             Fuente: Marín, A. 2014. Proceso de fabricación e industrialización 500 motocicletas 250cm3.
+                                                                Tesis de pre grado. Universidad Politécnica de Cartagena]]></page><page Index="13"><![CDATA[Mano de Obra
+
+
+
+
+                           El área de fabricación de motocicletas cuenta con 23 operarios los cuales son un jefe de planta quien supervisa las operaciones de
+                           la fábrica, 21 operarios estos realizan tareas distintas participan en el ensamblaje, montaje, embalaje, área de control de calidad, y 2
+                           operarios electromecánicos quienes trabajan en el montaje de motor.
+
+
+
+
+                                                   Mano de Obra               Cantidad Sueldos de op. (Bs)               Total
+
+                                           Jefe de planta                          1              35000,0          35000,0 Bs/ mes
+                                           Operario de Planta                     21              1800,0           37800,0 Bs/ mes
+
+                                           Operarios Electromecánicos              2              2000,0            4000,0 Bs/ mes
+                                                                     TOTAL SUELDOS                                 76800,0 Bs/ mes
+
+                                  Fuente: Elaboración propia basada en Producción y comercialización de motocicletas,
+                                                                  Instituto técnico de Buenos Aires.
+                                                   Maquinaria
+
+
+
+                           La fábrica cuenta con 17 máquinas y equipos de buena calidad, a continuación, se presenta los costos de las
+
+                           máquinas, ya con la depreciación incluida, se tiene los distintos costos
+
+                                                                                     Años de  Depreciación  Depreciación
+                                         Capital         Cantidad      Precio (Bs)     vida         (Bs/año)          (Bs/mes)               Total
+
+                                   Soldadora                  3        1235400,0         5         247080,0           20590,0         61770,0      Bs/ mes
+                                   Desmontadora               2        1746000,0        10         174600,0           14550,0         189150,0     Bs/ mes
+
+                                   Riel                       1         176400,0        10          17640,0            1470,0          1470,0      Bs/ mes
+                                                                       TOTAL MAQUINARIA                                                252390,0 Bs/ mes
+                                     Fuente: Elaboración propia basada en Producción y comercialización de motocicletas, Instituto
+                                                                               técnico de Buenos Aires.]]></page><page Index="14"><![CDATA[Información relevante sobre proveedores
+
+
+
+
+
+
+
+                  En la siguiente tabla se apreciará la información de los proveedores de las cuales se estimó empresas extranjeras
+                   internacionales debido a que el presente informe es dedicado al ensamblaje de las motos, se estimó la cantidad requerida
+                   por mes para satisfacer la demanda de los clientes y el precio por la cantidad pedida.
+
+
+                                          PROVEEDOR          DESCRIPCIÓN              MATERIALES              CANTIDAD (U/SEM)          PRECIO (BS)
+                                           LASER EBRO                                    TUBOS                         53                  3034,57
+                                              ALFA               CHASIS               PIPA+MOYUS                       52                  777,42
+                                           LASER EBRO                              CARTELAS+CHAPAS                     50                  530,88
+                                           LASER EBRO                              CORTE CUADRADO                      31                  226,08
+                                           LASER EBRO          SUBCHASIS               OREJETAS                       112                   53,55
+                                           LASER EBRO                                    TUBOS                         53                  1099,32
+                                              ALFA            BASCULANTE                COLISOS                        43                  937,65
+                                           LASER EBRO                              CARTELAS+CHAPAS                     41                  138,93
+                                          BCN WHEELS           LLANTAS                DELANTERA                        52                  772,87
+                                          BCN WHEELS                                    TRASERA                        52                  872,31
+                                            YAMAHA                                       MOTOR                         62                  9508,51
+                                            YAMAHA               MOTOR              INST. ELECTRICA                    62                  1271,98
+                                             KEHIN                                    CARBURADOR                      137                  1941,57
+                                            MONOPOL                                     THINNER                        63                   25,26
+                                                                PINTURA
+                                            MONOPOL                                      BARNIZ                        63                   42,10
+                                             FONTAN                                     FRONTAL                        39                  1021,35
+                                             FONTAN            CARENADO                  COLIN                         33                  736,75
+                                             FONTAN                                 FUNDA DEPOSITO                     32                  534,67
+                                            LEOVINCE            ESCAPE              TUBOS DE ESCAPE                    63                  940,94
+                                             PAIOLI           HORQUILLA           BARRAS HORQUILLA                     91                  1154,05
+                                                        TOTAL                                                         1184                25620,74
+
+
+
+                                                                                 Fuente: Elaboración propia]]></page><page Index="15"><![CDATA[Información relevante de clientes
+
+
+
+
+
+
+                               Demanda del producto
+
+                           Anualmente se importan 95 mil motocicletas en Bolivia, siendo los departamentos de Santa Cruz y Cochabamba
+                           donde existe una mayor demanda. Ambas regiones acaparan el 86% del total de importaciones.
+
+
+                                                      Cantidad        demandada           de       motocicletas
+                                                      pronosticadas al mes                                                  300 u
+                                                      Cantidad de clientes (tiendas de venta)                                 8
+                                                      Medio de envío                                                 Transporte terrestre
+                                                      Frecuencia de envíos al mes                                             2
+                                                      Modo de entrega de la motocicleta                                  Embalada
+
+
+                                                                           Demanda de motocicletas por
+                                                             Demanda en miles  47,4  23,7  8,6  departamento       2,5     1,0      0,5
+
+
+
+
+
+
+
+
+
+                                                                                                  5,2
+                                                                                                           2,4
+                                                                                          7,1
+
+
+
+
+
+
+
+
+                                                                                     Fuente: Elaboración propia]]></page><page Index="16"><![CDATA[Descripción detallada del flujo de
+
+
+
+                              información
+
+
+
+
+                                                                      Flujo de información de gerencia a la estación      Flujo de información hacia gerencia
+                                                                      La gerencia realiza una orden de producción de La gerencia recibe información de la estación,
+                            Desconsolidado
+                                                                      materia prima necesaria para cubrir la demanda del se recibió la materia prima con bajas de 0,8%
+                                                                      cliente                                             los mismos.
+                            -Montaje de Chasis
+                            - Montaje de subchasis
+                            - Montaje de basculante
+                            - Montaje de neumáticos
+
+                            - Montaje del motor                                                                           La estación manda información a la gerencia de
+                            - Pintado de chasis, subchasis y carenado  La gerencia realiza una orden de producción para      aquellos productos que presentan defectos,
+                                                                      mandar a la estación de pintado
+                            - Ensamble de chasis, basculante y ruedas                                                          generalmente en este proceso es nulo.
+                            - Ensamble de motor, carburador y escape
+                            - Ensamble de subchasis
+                            - Ensamble de horquilla
+                            - Montaje del carenado
+                                                                      La gerencia realiza una orden de pruebas necesarias La estación manda la siguiente información a la
+                            Banco de pruebas                          para comprobar la funcionalidad del producto gerencia de que los productos presentan un 2 %
+                                                                      terminado                                           de defectuosos los cuales pasan a un reproceso
+                                                                      La gerencia realiza una orden de inspecciones para La estación manda información a la gerencia de
+                            Inspección                                determinar si los productos son conformes con las aquellos productos que presentan defectos,
+                                                                      especificaciones                                    generalmente en este proceso es nulo.
+
+                                                                      La gerencia realiza una orden de producción del La estación manda información a la gerencia de
+                            Embalaje                                  embalaje de producto terminado para cubrir la la cantidad de embalajes realizados
+                                                                      demanda del cliente]]></page><page Index="17"><![CDATA[Medios de información de proveedor
+
+
+
+                                                                                    y cliente
+
+
+
+
+
+
+
+                                Esta parte es una descripción de cómo se relaciona la fábrica de motocicleta con el proveedor de materia prima,
+                                así también con el cliente.
+
+
+
+
+
+
+                                                                              Descripción                  Transporte    Cantidad    Periodo de envio
+                                                               Los proveedores tienen la función básica de
+                                                  Proveedor    proporcionar una cantidad definida de materia  Camión        30       1 vez por semana
+                                                               prima.
+                                                               El cliente es aquel que tiene la función de                          2 veces al mes, con
+                                                    Cliente    exigir que el producto demandado sea de      Camión         150       un intervalo de 15
+                                                               calidad y se entregue en un plazo establecido.                              días
+
+
+                                                                                 Fuente: Elaboración propia
+
+                             En la Tabla se puede apreciar el tipo de transporte del cual llega la materia prima a la fábrica, es decir como es la
+                             relación del proveedor y la empresa, vemos también cómo estos son transportados y el periodo en el cual se envía.
+                             Por otra parte, con referente al cliente este recibe la demanda pedida, así también del cómo se realizará la entrega
+                             de los productos terminados la cantidad y el periodo de envío, todo esto deberá ser coordinado por la empresa con
+                             el cliente.]]></page><page Index="18"><![CDATA[Simulación 3D del proceso-Flexsim
+
+
+
+
+
+
+
+                          A continuación, se presenta los datos generales utilizados en el diseño del flexSim (simulación) elaborado para cumplir la
+                           producción y elaboración de motocicletas.
+
+
+                                                         TIEMPO     TIEMPO      TIEMPO      TIEMPO                                  TIPO DE        AREAS
+                                                   MO                                                  TRANSPORTE      ROBOTS
+                                OPERACIONES              MINIMO     MAXIMO    PROMEDIO DE SETUP                                   OPERACIÓN DESIGNADAS
+                                                         Segundos   Segundos    Segundos   Segundos   Tipo Transporte    Unidad      Maquina        Lugar
+                                Desconsolidado      1        -          -         480          -             -             -            -        ALMACEN
+                                                                                                                                                  LINEA DE
+                               Montaje de chasis    1      1000       1400        1200         -           robots          1        Processor
+                                                                                                                                                  MONTAJE
+                                  Montaje de        1      1300       1700        1500         -           robots          -        processor     LINEA DE
+                                   subchasis                                                                                                      MONTAJE
+                                  Montaje de        2      400         800        600         120          robots          1        processor     LINEA DE
+                                  basculante                                                                                                      MONTAJE
+                                  Montaje de        2      700        1100        900         180          robots          1        processor     LINEA DE
+                                  neumáticos                                                                                                      MONTAJE
+                                                                                                                                                  LINEA DE
+                               Montaje del motor    2      1600       2000        1800        600          robots          1        processor
+                                                                                                                                                  MONTAJE
+                               Pintado de chasis,   2      1600       2000                    120          robots          1        processor     LINEA DE
+                             subchasis y carenado                                 1800                                                           ENSAMBLE
+                              Ensamble de chasis,   1      400         800        600          -         robots-grua       1         combiner     LINEA DE
+                              basculante y ruedas                                                                                                ENSAMBLE
+                              Ensamble de motor,    1      1300       1800        1500         60        robots-grua       1         combiner     LINEA DE
+                              carburador y escape                                                                                                ENSAMBLE
+                                 Ensamble de                                                                                                      LINEA DE
+                                   subchasis        2      400         800        600          60        robots-grua       1         combiner    ENSAMBLE
+                                 Ensamble de        2      400         800        600          60        robots-grua       1         combiner     LINEA DE
+                                   horquilla                                                                                                     ENSAMBLE
+                                  Montaje del       2      1600       2000        1800         -           robots          1         combiner     LINEA DE
+                                   carenado                                                                                                       MONTAJE
+                                                                                                                                                  LINEA DE
+                               Banco de pruebas     2      400         800        600          -             -             -        processor
+                                                                                                                                                INSPECCIÓN
+                                                                                                                                                  LINEA DE
+                                   Embalaje         2      700        1100        900          -             -             -        processor
+                                                                                                                                                 EMPAQUE
+                                   TOTAL           23      11800      17100      14880        1200                         10
+                                                                               Fuente: Elaboración propia]]></page><page Index="19"><![CDATA[Simulación 3D del proceso-Flexsim]]></page><page Index="20"><![CDATA[Programación del área desconsolidado
+
+
+
+
+
+
+                              En la primera parte se programó el área de desconsolidado para el transporte que tiene un tiempo de carga de 4
+                               min que en conjunto es la carga al transporte de la materia prima necesaria para la producción de las motos y
+                               tiempo de descarga de 4 min en cada operación, logrando los 8 minutos de operación en el desconsolidado.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                      Fuente: Elaboración propia
+
+                               Programación del área de montaje
+
+
+                              En esta área se programó el montaje de chasis, montaje de basculante, montaje de neumáticos, montaje de
+                               subchasis, montaje del motor y el pintado requerido. Cada operación tiene su propio almacén para que la grua
+                               tome la pieza y lo lleve al área de ensamblaje.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                            Fuente: Elaboración propia]]></page><page Index="21"><![CDATA[Programación del área de ensamblaje
+
+
+
+
+
+
+                                El área de ensamblaje es la línea principal del proceso donde llegan las piezas montadas del área
+                                 de montaje, en esta línea se unen las piezas formando el producto terminado se cuenta con las
+                                 operaciones de ensamblaje de chasis, ensamblaje de subchasis, ensamblaje de basculante,
+                                 ensamblaje de neumáticos, ensamblaje del motor, adicionalmente el montaje del carenado ya que
+                                 va directamente de la llegada de materia prima y no así de un proceso anterior y por ultimo
+                                 ensamblaje de la horquilla logrando las motos en su totalidad.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                              Fuente: Elaboración propia]]></page><page Index="22"><![CDATA[Banco de prueba
+
+
+
+
+                                Esta área es de inspección para detectar motocicletas en estado defectuoso se programo el
+                                 banco de prueba con un porcentaje de 25% de defectuosos debido a que se presenta muchos
+                                 factores a la hora de inspeccionar, hoy en dia es muy importante el control de calidad por eso
+                                 la calidad de la motocicleta es importante para el mercado.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                        Fuente: Elaboración propia
+
+                                   Área de almacén
+
+
+
+
+
+                        Esta     área      es     donde        se     almacén         las
+                         motocicletas         terminadas         logrando        en     el
+                         transcurso de un día 6 motocicletas terminadas
+                         y   1    defectuoso         por     distintos     temas       de
+                         inspección.
+
+
+
+                                                                                                                               Fuente: Elaboración propia]]></page><page Index="23"><![CDATA[HERRAMIENTAS DIDÁCTICAS]]></page><page Index="24"><![CDATA[VIDEO HERRAMIENTAS]]></page><page Index="25"><![CDATA[Bibliografía
+
+
+
+
+
+
+
+
+                                 Bianchi, T. & Chiaro, F. & Labat, V. & Raffo, M. & Tommasi, M. Producción y
+
+                                      comercialización de motocicletas TVS. Instituto Tecnológico de Buenos Aires
+
+                                 Carrera N, 2016. Análisis técnico-económico de una empresa de fabricación
+
+                                      de motocicletas. (Tesis de pre grado). Universidad de Sevilla.
+
+
+                                 Marín, A. 2014. Proceso de fabricación e industrialización 500 motocicletas 250
+                                      cm3. (Tesis de pre grado). Universidad Politécnica de Cartagena. Sotés, D.  &
+
+                                      Díaz, C. 2013. Industrialización de una motocicleta de competición. (Tesis de
+                                      pre grado). Universidad Navarrensis.Tabla 1
+
+
+                                 Transporte de motos nacionales e internacionales, Condiciones de Trabajo
+
+                                      para el traslado de su moto. Recuperado de:
+
+
+                                 Portal europeo INTRASTAT, Toda la Normativa INTRASTAT paso a paso. Guía
+                                      INSTRASTAT 2015. Recuperado de:]]></page><page Index="26"><![CDATA[]]></page></pages></Search>
